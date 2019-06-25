@@ -15,3 +15,14 @@ An interdigits CSV file generator for  made in python with Matplotlib and tkinte
 
 ## Screenshot
 ![App Screenshot](/screenshot/app.PNG)
+
+## Built With
+
+* [Python](https://www.python.org/)
+* [Tkinter](https://wiki.python.org/moin/TkInter) - GUI
+* [Matplotlib](https://matplotlib.org/3.1.0/index.html#) - Plotting the result
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
