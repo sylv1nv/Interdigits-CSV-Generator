@@ -22,6 +22,9 @@ An interdigits CSV file generator for  made in python with Matplotlib and tkinte
 * [Tkinter](https://wiki.python.org/moin/TkInter) - GUI
 * [Matplotlib](https://matplotlib.org/3.1.0/index.html#) - Plotting the result
 
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/sylv1nv/Interdigits-CSV-Generator/tags). 
 
 ## License
 
