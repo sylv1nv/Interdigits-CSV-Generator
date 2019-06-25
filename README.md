@@ -14,4 +14,4 @@ An interdigits CSV file generator for  made in python with Matplotlib and tkinte
 * Select the cutting starting way
 
 ## Screenshot
-![App Screenshot](/screenshot/app.png)
+![App Screenshot](/screenshot/app.PNG)
