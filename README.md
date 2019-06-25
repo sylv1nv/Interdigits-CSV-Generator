@@ -5,7 +5,7 @@ An interdigits CSV file generator for  made in python with Matplotlib and tkinte
 ## Installation
 1. Install [Python 3.7](https://www.python.org/downloads/)
 1. Install Matplotlib `pip install  matplotlib` 
-1. Run LaserPy InterdigitGenerator V1.0
+1. Run LaserPy InterdigitGenerator V1.0.0
 
 ## How-to
 * Enter you starting point X0 and Y0 coordinates
